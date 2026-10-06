@@ -1,18 +1,27 @@
 # Hi, I'm Jeremiah Platino
 
-**Shopify developer and e-commerce growth specialist, based in Laguna, Philippines.**
+**Digital Growth & E-commerce Specialist, based in Laguna, Philippines.**
 
-I build and optimize Shopify storefronts for home, lifestyle, and DTC brands in Europe and the US. My focus is speed, a premium shopping experience, and conversion, so brands earn more from the traffic they already have.
+I'm a Shopify Developer and Conversion Specialist helping DTC and single-product brands across Europe and the US turn more of their traffic into revenue.
 
-I write custom Liquid directly in the theme. No page builders, no unnecessary apps. Everything I build stays editable in the theme editor.
+For the past 2+ years, I've built and optimized Shopify storefronts with a focus on speed, premium user experience, and conversion. I start with the funnel, finding where shoppers drop off between landing and checkout, then fix it with clean Liquid development and conversion-focused design.
+
+I don't rely on page builders or unnecessary apps. I build lean, custom Shopify experiences that are fast, scalable, visually refined, and designed to sell.
 
 **[See my portfolio →](https://itsjayps.github.io)**
 
+| Experience | Clients | Focus |
+|---|---|---|
+| 2+ years on Shopify | Europe and the US | DTC, wellness, single-product |
+
 ## What I do
 
-- **Custom Liquid development**: sections and templates written in theme code
+- **Custom Liquid development**: sections and templates written in theme code, editable in the theme editor
+- **CRO audits and funnel analysis**: finding where shoppers drop off between landing and checkout, then prioritizing the fixes
 - **Conversion-focused product pages**: galleries, bundle selectors, sticky add-to-cart, social proof
+- **Landing pages and offers**: focused pages built around one product and one offer
 - **Performance optimization**: leaner themes, fewer apps, faster pages
+- **Promos and campaign updates**: sale banners, countdown bars, seasonal homepage changes
 - **Responsive, premium UX**: layouts that feel considered on every screen size
 
 ## Selected work
@@ -26,11 +35,11 @@ I write custom Liquid directly in the theme. No page builders, no unnecessary ap
 
 ## Toolbox
 
-Shopify · Liquid · HTML · CSS · JavaScript · Shopify CLI · Git
+Shopify · Liquid · HTML · CSS · JavaScript · Shopify CLI · Theme editor · Git
 
 ## Work with me
 
-I'm open to Shopify projects and ongoing store work.
+I'm open to Shopify development and conversion work, both projects and ongoing store support.
 
 - Email: [platinojd@icloud.com](mailto:platinojd@icloud.com)
 - Portfolio: [itsjayps.github.io](https://itsjayps.github.io)
