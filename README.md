@@ -1,18 +1,22 @@
 # Hi, I'm Jeremiah Platino
 
-**Digital Growth & E-commerce Specialist, based in Laguna, Philippines.**
+**Shopify Developer & CRO Specialist, based in Laguna, Philippines.**
 
-I'm a Shopify Developer and Conversion Specialist helping DTC and single-product brands across Europe and the US turn more of their traffic into revenue.
+I'm a CRO-focused Shopify Developer helping DTC and single-product brands across Europe and the US turn more of their existing traffic into customers.
 
-For the past 2+ years, I've built and optimized Shopify storefronts with a focus on speed, premium user experience, and conversion. I start with the funnel, finding where shoppers drop off between landing and checkout, then fix it with clean Liquid development and conversion-focused design.
+With 2+ years of experience building and optimizing Shopify storefronts, I combine conversion rate optimization, UX strategy, and custom Shopify development to create shopping experiences that don't just look premium — they're built to convert.
 
-I don't rely on page builders or unnecessary apps. I build lean, custom Shopify experiences that are fast, scalable, visually refined, and designed to sell.
+I take a funnel-first approach, identifying friction across landing pages, product pages, cart, and checkout, then turning those insights into actionable improvements that reduce drop-offs, improve the customer journey, and drive more revenue.
+
+From custom Liquid development and high-impact landing pages to performance optimization and conversion-focused design, I build lean, scalable Shopify experiences without relying on bloated page builders or unnecessary apps.
+
+My goal is simple: help brands get more value from their existing traffic through better UX, smarter CRO, and high-performance Shopify development.
 
 **[See my portfolio →](https://itsjayps.github.io)**
 
 | Experience | Clients | Focus |
 |---|---|---|
-| 2+ years on Shopify | Europe and the US | DTC, wellness, single-product |
+| 2+ years on Shopify | Europe and the US | CRO + custom Shopify builds |
 
 ## What I do
 
@@ -33,13 +37,20 @@ I don't rely on page builders or unnecessary apps. I build lean, custom Shopify 
 | [Zenbodi](https://zenbodi.com) | A wellness storefront with a calm, on-brand buying flow |
 | [Healthy Petz](https://www.shophealthypetz.com/) | A seasonal sale homepage with a countdown bar and campaign banner |
 
-## Toolbox
+## How I work
 
-Shopify · Liquid · HTML · CSS · JavaScript · Shopify CLI · Theme editor · Git
+1. **Audit**: I review your store, theme, and apps to find what is slowing pages down or costing you sales.
+2. **Build**: I build on a duplicate of your theme, so your live store keeps selling untouched while the work happens.
+3. **Review**: You get a preview link to test on your own devices, and I revise until it's right.
+4. **Launch**: The approved work goes live, I check it on the real store, and I stay available for follow-up fixes.
+
+## Tools of the trade
+
+Shopify · Liquid · Shopify CLI · Theme editor · HTML · CSS · JavaScript · Git
 
 ## Work with me
 
-I'm open to Shopify development and conversion work, both projects and ongoing store support.
+I'm open to Shopify development and CRO work, both projects and ongoing store support. Based in Laguna, Philippines (GMT+8); I schedule calls around European and US working hours.
 
 - Email: [platinojd@icloud.com](mailto:platinojd@icloud.com)
 - Portfolio: [itsjayps.github.io](https://itsjayps.github.io)
