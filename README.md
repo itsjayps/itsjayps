@@ -44,9 +44,11 @@ My goal is simple: help brands get more value from their existing traffic throug
 3. **Review**: You get a preview link to test on your own devices, and I revise until it's right.
 4. **Launch**: The approved work goes live, I check it on the real store, and I stay available for follow-up fixes.
 
-## Tools of the trade
+## Build & optimize
 
-Shopify · Liquid · Shopify CLI · Theme editor · HTML · CSS · JavaScript · Git
+**Build:** Shopify · Liquid · HTML · CSS · JavaScript · Shopify CLI · Git
+
+**CRO:** Google Analytics 4 · Hotjar · Intelligems · PageSpeed Insights
 
 ## Work with me
 
